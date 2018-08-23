@@ -1,5 +1,5 @@
 /**
- * Christapher White
+ * Christapher White and John Gallagher
  * 08/23/18
  */
 #include<stdlib.h>
